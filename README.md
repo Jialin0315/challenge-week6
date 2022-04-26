@@ -9,6 +9,11 @@ Determine the number of retiring employees per title, and identify employees who
 
 ## Results
 
+The number of retiring employees for each titles are shown in this figure below.<img width="201" alt="截屏2022-04-26 上午12 28 18" src="https://user-images.githubusercontent.com/100896537/165221262-6d24d852-abe2-4562-b651-66e21af3be3d.png">
+
+
+The employees who are eligible to participate in a mentorship program is in the csv file called "mentorship_eligibilty.csv", with a total of 2624 people.
+
 
 
 
